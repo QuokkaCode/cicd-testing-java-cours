@@ -13,4 +13,8 @@ spring:
 
 
 server:
+<<<<<<< HEAD
   port: 9003
+=======
+  port: 9292
+>>>>>>> develop
