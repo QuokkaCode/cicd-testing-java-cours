@@ -11,10 +11,5 @@ spring:
     enabled: true
     change-log: classpath:/db/changelog/db.changelog-dev.yaml
 
-
 server:
-<<<<<<< HEAD
-  port: 9003
-=======
   port: 9292
->>>>>>> develop
